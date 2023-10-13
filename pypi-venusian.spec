@@ -5,7 +5,7 @@
 #
 Name     : pypi-venusian
 Version  : 3.0.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/53/d9/29816f12828a5ff539e66afe270a764d07bf4bb4cefc6613e331c9d38ba9/venusian-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/53/d9/29816f12828a5ff539e66afe270a764d07bf4bb4cefc6613e331c9d38ba9/venusian-3.0.0.tar.gz
 Summary  : A library for deferring decorator actions
