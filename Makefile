@@ -1,5 +1,5 @@
 PKG_NAME := pypi-venusian
-URL = https://files.pythonhosted.org/packages/53/d9/29816f12828a5ff539e66afe270a764d07bf4bb4cefc6613e331c9d38ba9/venusian-3.0.0.tar.gz
+URL = https://files.pythonhosted.org/packages/f8/39/7c0d9011ec465951aaf71c252effc7c031a04404887422c6f66ba26500e1/venusian-3.1.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
